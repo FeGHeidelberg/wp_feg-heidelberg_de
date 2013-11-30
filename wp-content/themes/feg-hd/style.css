@@ -1,0 +1,30 @@
+
+/*
+	Theme Name: feg-hd
+	Author: FeG Heidelberg
+	Author URI: http://www.feg-heidelberg.de
+	Template: churchope
+	Version: 1.0
+*/
+
+@import url("../churchope/style.css");
+
+/* ---------------------------------------------------------------------- */
+/*	Custom Styles
+/* ---------------------------------------------------------------------- */
+
+
+@import url("../churchope/css/main.css");
+
+/* ---------------------------------------------------------------------- */
+/*	Custom Styles
+/* ---------------------------------------------------------------------- */
+
+.logo span, .logo img { padding: 3px 0; display:block }
+
+a { color: #0a9690; }
+
+ul, ol {
+    margin: 1em 0;
+    padding: 0px;
+}
